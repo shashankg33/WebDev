@@ -1,5 +1,5 @@
 
-.containsidd{
+.containshash{
     max-width: 500px;
     margin:20px;
     padding:20px 40px;
@@ -56,19 +56,19 @@ label{
     font-size: large;
 }
 input#name:invalid:focus{
-    border: 4px solid red;
+    border: 4px solid green;
   }
   input#email:invalid:focus{
-    border: 4px solid red;
+    border: 4px solid green;
   }
   input#password:invalid:focus{
-    border: 4px solid red;
+    border: 4px solid green;
   }
   input#acceptTerms:invalid:focus{
-    border: 4px solid red;
+    border: 4px solid green;
   }
   input#dob:invalid:focus{
-    border: 4px solid red;
+    border: 4px solid green;
   }
 
 
