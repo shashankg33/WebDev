@@ -1,5 +1,5 @@
 
-.containshash{
+.containsidd{
     max-width: 500px;
     margin:20px;
     padding:20px 40px;
@@ -28,14 +28,14 @@
     display: table;
     clear: both;
   }
-  .shash-25 {
+  .sidd-25 {
     float: left;
     width: 25%;
     margin-top: 6px;
     
   }
   
-  .shash-75 {
+  .sidd-75 {
     float: left;
     width: 75%;
     margin-top: 6px;
